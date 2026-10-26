@@ -3,9 +3,9 @@
 Sou um desenvolvedor focado na interseção entre software e hardware, buscando criar soluções eficientes desde a nuvem até dispositivos embarcados.
 
 🎓 **Sobre Mim**
-- 📚 Estudante do 4º semestre de **Engenharia da Computação** na Universidade Federal do Ceará (UFC).
-- 💻 Experiência prática que vai do desenvolvimento web Full-Stack à prototipagem de modelos de Inteligência Artificial na borda (Edge AI).
-- 🤖 Envolvido em iniciativas de educação tecnológica, ensinando eletrônica básica e programação C++ aplicadas à robótica para alunos da rede pública.
+-  Estudante do 4º semestre de **Engenharia da Computação** na Universidade Federal do Ceará (UFC).
+-  Experiência prática que vai do desenvolvimento web Full-Stack à prototipagem de modelos de Inteligência Artificial na borda (Edge AI).
+-  Envolvido em iniciativas de educação tecnológica, ensinando eletrônica básica e programação C++ aplicadas à robótica para alunos da rede pública.
 
 ---
 
@@ -31,16 +31,6 @@ Sou um desenvolvedor focado na interseção entre software e hardware, buscando 
 ![Ubuntu WSL](https://img.shields.io/badge/Ubuntu_WSL-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
-
----
-
-### 🚀 Projetos em Destaque
-
-* 🧠 **Benchmarking de IA Embarcada (Edge AI):** Avaliação sistemática de desempenho, tempo de inferência e uso de memória de modelos de classificação (TensorFlow Lite e PyTorch) executados nativamente em um Raspberry Pi Zero 2 W.
-* 💰 **Plataforma de Gestão de Tesouraria:** Aplicação web Full-Stack (React, Vite, Supabase) para controle financeiro, implementando políticas de segurança em nível de linha (RLS), estruturação de subcontas e histórico rastreável de transações.
-* ⚙️ **Automação e Otimização de Processos:** 
-  * Desenvolvimento de algoritmos para geração de escalas mensais complexas (equilibrando restrições de rotação, dias de descanso e pareamento de equipes).
-  * Criação de scripts no Google Apps Script (JavaScript) para geração automatizada de links de cobrança diretamente no Google Sheets.
 
 ---
 *Sinta-se à vontade para explorar meus repositórios abaixo!*
